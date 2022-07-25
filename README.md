@@ -1,6 +1,6 @@
 # Sup, fellow coders <3 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I’m an engineering undergraduate in Artificial Intelligence Engineering from Amrita Vishwa Vidyapeetham. [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I’m an engineering undergraduate in Artificial Intelligence Engineering. I'm from Kozhikode, Kerala. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
