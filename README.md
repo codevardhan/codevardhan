@@ -1,6 +1,6 @@
 # Sup, fellow coders <3 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I’m an engineering undergraduate in Artificial Intelligence Engineering. I'm from Kozhikode, Kerala. 
+I’m an engineering undergraduate in Computer Science, with a specialization in Artificial Intelligence. I'm from Kozhikode, Kerala. 
 I’m interested in
 
 - Computer Vision :detective:
