@@ -3,9 +3,9 @@
 I’m an engineering undergraduate in Artificial Intelligence Engineering. I'm from Kozhikode, Kerala. 
 I’m interested in
 
-- Machine Learning
-- Deep Learning
-- Web and App Development.
+- Computer Vision :detective:
+- Natural Language Processing :books:
+- Web and App Development :iphone:
 
 I also play video games on my days off, Rainbow Six Siege anyone? You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
