@@ -27,12 +27,12 @@ A sample of my recent articles:
 - [Starting my Open Source Journey!](https://codevardhan.github.io/posts/2019-08-20-amfoss-tasks/)
 <!-- BLOG-POST-LIST:END -->
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevardhan&theme=radical)](https://github.com/codevardhan/github-readme-stats)
 
 [![My Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=codevardhan&theme=radical)](https://github.com/codevardhan/github-readme-stats)
-
+ -->
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
