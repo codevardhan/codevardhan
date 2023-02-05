@@ -23,6 +23,7 @@ Apart from coding, I also (try to) maintain a blog - you can find my articles on
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [EazyPredict python module](https://codevardhan.github.io/posts/2023-02-03-eazypredict-module/)
 - [kNN algorithm explained intuitively!](https://codevardhan.github.io/posts/2022-01-30-knn-algorithm-demystified/)
 - [Starting my Open Source Journey!](https://codevardhan.github.io/posts/2019-08-20-amfoss-tasks/)
 <!-- BLOG-POST-LIST:END -->
