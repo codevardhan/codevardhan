@@ -1,6 +1,7 @@
 # Sup, fellow coders <3 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I’m an engineering undergraduate in Computer Science, with a specialization in Artificial Intelligence. I'm from Kozhikode, Kerala. 
+Machine Learning Engineer @ BeSuperhuman.ai
+
 I’m interested in
 
 - Computer Vision :detective:
