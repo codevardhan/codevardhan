@@ -1,6 +1,6 @@
 # Sup, fellow coders <3 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Machine Learning Engineer @ BeSuperhuman.ai
+Pusuing Masters in Artificial Intelligence @ Northeastern University, Boston.
 
 I’m interested in
 
