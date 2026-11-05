@@ -1,27 +1,41 @@
-# Sup, fellow coders <3 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# hi, i'm harsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Pusuing Masters in Artificial Intelligence @ Northeastern University, Boston.
+finished my MS in AI at Northeastern (Boston) in '26. started out in computer vision and NLP, then got nerd-sniped by what's actually happening on the GPU. these days i write CUDA, lose to cuBLAS, and learn something every time.
 
-I’m interested in
+looking for ML Product / ML engineer / ML systems / GPU performance roles. if your team cares about making models train or serve faster, [say hi](https://www.linkedin.com/in/codevardhan/).
 
-- Computer Vision :detective:
-- Natural Language Processing :books:
-- Web and App Development :iphone:
+### stuff i've built
 
-I also play video games on my days off, Rainbow Six Siege anyone? You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+- ParaGrad: a deep learning training framework in C++17 and CUDA, from scratch. yes, on purpose.
+- BeSuperhuman.ai: a production LLM agent platform. spent a lot of quality time with the inference bill and made it a lot smaller.
+- ISL sign recognition: open-source Indian Sign Language recognition, deployed across Indian government services.
+- medical imaging research at MGH/Harvard: deep learning on clinical DICOM data. if you've never opened a DICOM file, keep it that way.
+- took 3rd at the Google MLOps Expo 2026.
 
-## 🔧 Technologies & Tools
+### side quests
+
+- Shellf: an ebook and comic reader for Android and iOS
+- a phone terminal app so i can SSH into my PC and babysit coding agents (Claude Code, OpenCode) over tmux from the couch
+- a framed color e-ink display that shows whatever plane is flying over my place
+
+### off the clock
+
+portrait photography, slowly becoming someone who runs 10ks, and still playing Rainbow Six Siege.
+
+### stack
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CUDA-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog
+### blog
 
-Apart from coding, I also (try to) maintain a blog - you can find my articles on my website at [codevardhan.github.io](https://codevardhan.github.io) in the blogs section!
-
-A sample of my recent articles:
+i still (try to) blog at [codevardhan.com](https://codevardhan.com). recent-ish posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [EazyPredict python module](https://codevardhan.github.io/posts/2023-02-03-eazypredict-module/)
@@ -29,37 +43,6 @@ A sample of my recent articles:
 - [Starting my Open Source Journey!](https://codevardhan.github.io/posts/2019-08-20-amfoss-tasks/)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ## &#x1f4c8; GitHub Stats
+---
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codevardhan&theme=radical)](https://github.com/codevardhan/github-readme-stats)
-
-[![My Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=codevardhan&theme=radical)](https://github.com/codevardhan/github-readme-stats)
- -->
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/h_v_m__
-[2]: https://github.com/codevardhan
-[3]: https://www.linkedin.com/in/codevardhan/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+find me on [twitter](https://twitter.com/h_v_m__) or [linkedin](https://www.linkedin.com/in/codevardhan/).
